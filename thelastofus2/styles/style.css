@@ -1,0 +1,325 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Montserrat&display=swap');
+body{
+    margin: 0;
+}
+header{
+    width:100%;
+    height: 1080px;
+    background: url(/thelastofus2/img/tlou1.jpg);
+    background-repeat: no-repeat;
+}
+
+nav{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{ 
+    padding-right: 100px;
+    margin-top:-130px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.logo{
+    width:200px;
+    height:100px;
+    margin-left:40px;
+    margin-top:50px;
+}
+
+.cit1{
+    width:300px;
+    margin-left:280px;
+    margin-top:200px;
+}
+
+.citation{
+    color:white;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.line{
+    width:95%;
+    margin-top:40px;
+}
+
+#plot{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:64px;
+    margin-top :50px;
+    margin-left:800px;
+}
+
+.sline{
+    width: 210px;
+    height:2px;
+    background-color:black;
+    margin-top:-55px;
+    margin-left:805px;
+}
+
+.d1{
+    display:flex;
+    padding-top: 70px;
+}
+
+.plot1{
+    width:600px;
+    height:340px;
+    padding-left: 120px;
+}
+
+.pp1{
+    width:880px;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+.d2{
+    display: flex;
+    width:100%;
+    height: 530px;
+    background-color: #EAEAEA;
+    margin-top:70px;
+}
+
+.plot2{
+    width:600px;
+    height:340px;
+    padding-left:150px;
+    padding-top: 100px;
+}
+
+.pp2{
+    width:880px;
+    font-size: 30px;
+    margin-left: 150px;
+    padding-top: 130px;
+}
+
+.d3{
+    display: flex;
+    margin-top:70px;
+}
+
+.plot3{
+    width:600px;
+    height:340px;
+    padding-left: 120px;
+}
+
+.pp3{
+    width:880px;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+p{
+    font-size: 24px;
+    font-weight:600;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+
+#best{
+    width:100%;
+    height:630px;
+    background-color: #10323C;
+    color:white;
+    font-family: 'Amatic SC', cursive;
+}
+
+.h1{
+    margin-left: 750px;
+    padding:30px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.best1{
+    width:470px;
+    height:300px;
+}
+
+.bp1{
+    font-size: 36px;
+    margin-top:0;
+    margin-left: 80px;
+}
+
+.best2{
+    width:470px;
+    height:300px;
+}
+
+.bp2{
+    font-size: 36px;
+    margin-top:0;
+}
+
+.best3{
+    width:500px;
+    height:300px;
+}
+
+.bp3{
+    font-size: 36px;
+    margin-top:-5px;
+    padding-left: 90px;
+}
+
+#creators{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.h12{
+    font-family: 'Montserrat', sans-serif;
+    font-size:64px;
+    margin-top :50px;
+    margin-left:770px;
+}
+
+.sline1{
+    width: 350px;
+    height:2px;
+    background-color:black;
+    margin-top:-55px;
+    margin-left:770px;
+}
+
+.p1{
+    font-size: 36px;
+    margin-left: 260px;
+}
+
+.p2{
+    font-size: 36px;
+    margin-left: 750px;
+}
+
+.flex1{
+    display: flex;
+}
+
+.flex2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cp1{
+    margin-top: -10px;
+    margin-left: 0px;
+}
+
+.cp2{
+    margin-top: -10px;
+    margin-left: 0;
+}
+
+.creators{
+    width:200px;
+    height: 280px;
+}
+
+.creators1{
+    width:270px;
+    height: 280px;
+}
+
+.cp3{
+    margin-top: -10px;
+}
+
+.cp4{
+    margin-top: -10px;
+    margin-left: 40px;
+}
+
+.flex3{
+    display: flex;
+    justify-content: space-around;
+    width:850px;
+    margin-left: 520px;
+}
+
+.p3{
+    font-size: 36px;
+    margin-left: 800px;
+}
+
+.creators2{
+    width:200px;
+    height: 280px;
+}
+
+.cp5{
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+.cp6{
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+#gameplay{
+    background-color: #1D1D1D;
+    color:white;
+    width:100%;
+    height:1370px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h13{
+    margin-left: 770px;
+    font-size: 64px;
+    padding:30px;
+}
+
+.g1{
+    display: flex;
+    padding:50px;
+}
+
+.game{
+    width:450px;
+    height:290px;
+}
+
+footer{
+    width:100%;
+    height:200px;
+    background-color: #1D1D1D;
+    color:white;
+    display: flex;
+}
+
+input{
+    height:40px;
+    font-size: 24px;
+}
